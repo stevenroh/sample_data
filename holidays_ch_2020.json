@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2020-01-01",
+        "name": "Nouvel an"
+    },
+    {
+        "date": "2020-03-19",
+        "name": "St-Joseph"
+    },
+    {
+        "date": "2020-04-10",
+        "name": "Vendedi Saint"
+    },
+    {
+        "date": "2020-04-13",
+        "name": "Lundi de Pâques"
+    },
+    {
+        "date": "2020-05-01",
+        "name": "Fête du travail"
+    },
+    {
+        "date": "2020-05-21",
+        "name": "Ascension"
+    },
+    {
+        "date": "2020-06-01",
+        "name": "Lundi de Pentecôte"
+    },
+    {
+        "date": "2020-06-11",
+        "name": "Fête Dieu"
+    }
+]
